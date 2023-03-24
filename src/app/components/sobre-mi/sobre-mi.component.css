@@ -1,0 +1,23 @@
+.row {
+    padding: 15px;
+    background-color:#99A3A4;
+    text-align: center;
+}
+
+#perfil img {
+    position: absolute;
+    width: 15%;
+    border-radius: 50%;
+    box-shadow: 3px 2px 2px black;
+    top:600px;
+    left: 3%;
+}
+/**
+caja de acerca sobreMi
+**/
+
+#nombre{
+    font-weight: bold;
+    margin-top: 30%;
+    margin-left: 5px;
+}
